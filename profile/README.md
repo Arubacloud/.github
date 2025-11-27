@@ -26,8 +26,8 @@ We provide cloud tools, libraries, integrations, and automation resources to hel
 **Actively Maintained and New**  
 | Repository             | Description                                 | Status     |
 |------------------------|---------------------------------------------|------------|
-| helm-charts       | Helm Chart Repository for Aruba Cloud Projects    | Maintained |
-| devsecops-demo-2025   | Aruba Cloud Team’s demo for DevSecOpsDay 2025 | Maintained |
+| [helm-charts](https://github.com/Arubacloud/helm-charts)       | Helm Chart Repository for Aruba Cloud Projects    | Maintained |
+| [devsecops-demo-2025](https://github.com/Arubacloud/devsecops-demo-2025)   | Aruba Cloud Team’s demo for DevSecOpsDay 2025 | Maintained |
 
 
 **Archived or Not Actively Maintained**  

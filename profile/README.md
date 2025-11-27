@@ -33,13 +33,12 @@ We provide cloud tools, libraries, integrations, and automation resources to hel
 **Archived or Not Actively Maintained**  
 | Repository             | Description                                 | Status     |
 |------------------------|---------------------------------------------|------------|
-| pyArubaCloud  | Python Interface for ArubaCloud IaaS Service  | Inactive   |
-| vagrant-arubacloud.| Vagrant to manage ArubaCloud IaaS instances. | Inactive   |
-| vagrant-arubacloud.| Vagrant to manage ArubaCloud IaaS instances. | Inactive   |
-| goarubacloud | Go ArubaCloud Client Library | Inactive   |
-| fog-arubacloud | Module for the 'fog' gem to support ArubaCloud IaaS Service | Inactive   |
-| docker-machine-driver-arubacloud | ArubaCloud Cloud driver for Docker Machine | Inactive   |
-| pyArubaConsole | Python Console to manage Aruba Cloud IaaS Service | Inactive   |
+| [pyArubaCloud](https://github.com/Arubacloud/pyArubaCloud)  | Python Interface for ArubaCloud IaaS Service  | Inactive   |
+| [vagrant-arubacloud](https://github.com/Arubacloud/vagrant-arubacloud) | Vagrant to manage ArubaCloud IaaS instances. | Inactive   |
+| [goarubacloud](https://github.com/Arubacloud/goarubacloud) | Go ArubaCloud Client Library | Inactive   |
+| [fog-arubacloud](https://github.com/Arubacloud/fog-arubacloud) | Module for the 'fog' gem to support ArubaCloud IaaS Service | Inactive   |
+| [docker-machine-driver-arubacloud](https://github.com/Arubacloud/docker-machine-driver-arubacloud) | ArubaCloud Cloud driver for Docker Machine | Inactive   |
+| [pyArubaConsole](https://github.com/Arubacloud/pyArubaConsole) | Python Console to manage Aruba Cloud IaaS Service | Inactive   |
 
 
 ---

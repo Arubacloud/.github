@@ -30,13 +30,14 @@ The following repositories are **actively developed and supported** by ArubaClou
 Release information and popularity are automatically derived from GitHub metadata.
 
 | Project | Description | Latest Release | GitHub |
-|-------|------------|----------------|--------|
-| **acloud-cli** | Official Command Line Interface for the Aruba Cloud Management Platform | [![Release](https://img.shields.io/github/v/release/Arubacloud/acloud-cli?label=release)](https://github.com/Arubacloud/acloud-cli/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/acloud-cli?style=social) |
-| **terraform-provider-arubacloud** | Official Terraform provider for managing ArubaCloud resources | [![Release](https://img.shields.io/github/v/release/Arubacloud/terraform-provider-arubacloud?label=release)](https://github.com/Arubacloud/terraform-provider-arubacloud/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/terraform-provider-arubacloud?style=social) |
-| **sdk-go** | Official Go SDK for interacting with ArubaCloud APIs | [![Release](https://img.shields.io/github/v/release/Arubacloud/sdk-go?label=release)](https://github.com/Arubacloud/sdk-go/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/sdk-go?style=social) |
-| **helm-charts** | Helm charts for deploying ArubaCloud services and components | [![Release](https://img.shields.io/github/v/release/Arubacloud/helm-charts?label=release)](https://github.com/Arubacloud/helm-charts/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/helm-charts?style=social) |
-| **arubacloud-resource-operator** | Kubernetes Operator for managing ArubaCloud resources | [![Release](https://img.shields.io/github/v/release/Arubacloud/arubacloud-resource-operator?label=release)](https://github.com/Arubacloud/arubacloud-resource-operator/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/arubacloud-resource-operator?style=social) |
-| **devsecops-demo-2025** | Official ArubaCloud DevSecOpsDay 2025 demo project | [![Release](https://img.shields.io/github/v/release/Arubacloud/devsecops-demo-2025?label=release)](https://github.com/Arubacloud/devsecops-demo-2025/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/devsecops-demo-2025?style=social) |
+|--------|-------------|----------------|--------|
+| **[acloud-cli](https://github.com/Arubacloud/acloud-cli)** | Official Command Line Interface for the Aruba Cloud Management Platform | [![Release](https://img.shields.io/github/v/release/Arubacloud/acloud-cli?label=release)](https://github.com/Arubacloud/acloud-cli/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/acloud-cli?style=social) |
+| **[terraform-provider-arubacloud](https://github.com/Arubacloud/terraform-provider-arubacloud)** | Official Terraform provider for managing ArubaCloud resources | [![Release](https://img.shields.io/github/v/release/Arubacloud/terraform-provider-arubacloud?label=release)](https://github.com/Arubacloud/terraform-provider-arubacloud/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/terraform-provider-arubacloud?style=social) |
+| **[sdk-go](https://github.com/Arubacloud/sdk-go)** | Official Go SDK for interacting with ArubaCloud APIs | [![Release](https://img.shields.io/github/v/release/Arubacloud/sdk-go?label=release)](https://github.com/Arubacloud/sdk-go/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/sdk-go?style=social) |
+| **[helm-charts](https://github.com/Arubacloud/helm-charts)** | Helm charts for deploying ArubaCloud services and components | [![Release](https://img.shields.io/github/v/release/Arubacloud/helm-charts?label=release)](https://github.com/Arubacloud/helm-charts/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/helm-charts?style=social) |
+| **[arubacloud-resource-operator](https://github.com/Arubacloud/arubacloud-resource-operator)** | Kubernetes Operator for managing ArubaCloud resources | [![Release](https://img.shields.io/github/v/release/Arubacloud/arubacloud-resource-operator?label=release)](https://github.com/Arubacloud/arubacloud-resource-operator/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/arubacloud-resource-operator?style=social) |
+| **[devsecops-demo-2025](https://github.com/Arubacloud/devsecops-demo-2025)** | Official ArubaCloud DevSecOpsDay 2025 demo project | [![Release](https://img.shields.io/github/v/release/Arubacloud/devsecops-demo-2025?label=release)](https://github.com/Arubacloud/devsecops-demo-2025/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/devsecops-demo-2025?style=social) |
+
 
 ---
 
@@ -45,13 +46,13 @@ Release information and popularity are automatically derived from GitHub metadat
 These repositories are preserved for historical reference and are **not actively maintained**.
 
 | Repository | Description | Status |
-|-----------|------------|--------|
-| pyArubaCloud | Python interface for ArubaCloud IaaS services | Inactive |
-| vagrant-arubacloud | Vagrant provider for ArubaCloud infrastructure | Inactive |
-| goarubacloud | Legacy Go client library for ArubaCloud | Inactive |
-| fog-arubacloud | Fog provider for ArubaCloud IaaS | Inactive |
-| docker-machine-driver-arubacloud | Docker Machine driver for ArubaCloud | Inactive |
-| pyArubaConsole | Python console for ArubaCloud management | Inactive |
+|------------|-------------|--------|
+| **[pyArubaCloud](https://github.com/Arubacloud/pyArubaCloud)** | Python interface for ArubaCloud IaaS services | Inactive |
+| **[vagrant-arubacloud](https://github.com/Arubacloud/vagrant-arubacloud)** | Vagrant provider for ArubaCloud infrastructure | Inactive |
+| **[goarubacloud](https://github.com/Arubacloud/goarubacloud)** | Legacy Go client library for ArubaCloud | Inactive |
+| **[fog-arubacloud](https://github.com/Arubacloud/fog-arubacloud)** | Fog provider for ArubaCloud IaaS | Inactive |
+| **[docker-machine-driver-arubacloud](https://github.com/Arubacloud/docker-machine-driver-arubacloud)** | Docker Machine driver for ArubaCloud | Inactive |
+| **[pyArubaConsole](https://github.com/Arubacloud/pyArubaConsole)** | Python console for ArubaCloud management | Inactive |
 
 ---
 

@@ -37,8 +37,18 @@ Release information and popularity are automatically derived from GitHub metadat
 | **[helm-charts](https://github.com/Arubacloud/helm-charts)** | Helm charts for deploying ArubaCloud services and components | [![Release](https://img.shields.io/github/v/release/Arubacloud/helm-charts?label=release)](https://github.com/Arubacloud/helm-charts/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/helm-charts?style=social) |
 | **[arubacloud-resource-operator](https://github.com/Arubacloud/arubacloud-resource-operator)** | Kubernetes Operator for managing ArubaCloud resources | [![Release](https://img.shields.io/github/v/release/Arubacloud/arubacloud-resource-operator?label=release)](https://github.com/Arubacloud/arubacloud-resource-operator/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/arubacloud-resource-operator?style=social) |
 | **[devsecops-demo-2025](https://github.com/Arubacloud/devsecops-demo-2025)** | Official ArubaCloud DevSecOpsDay 2025 demo project | [![Release](https://img.shields.io/github/v/release/Arubacloud/devsecops-demo-2025?label=release)](https://github.com/Arubacloud/devsecops-demo-2025/releases/latest) | ![Stars](https://img.shields.io/github/stars/Arubacloud/devsecops-demo-2025?style=social) |
+---
 
 
+## 🎤 Event & Conference Projects
+
+The following repositories were created for technical talks, live demos, workshops, and community events.
+They may evolve over time but are primarily intended for educational and demonstration purposes.
+
+| Project | Event Context | Description | Github |
+|------------|-------------|--------|--------|
+| **devsecops-demo-2025** | DevSecOps Day 2025 | Multi-tier cloud demo: static site, Kubernetes WordPress, and Go API—secured with Vault/ESO and CI/CD via GitHub Actions. | [link](https://github.com/Arubacloud/devsecops-demo-2025) |
+| **devops-italy-2026** | DevSecOps Italy 2026 | Building an Internal Developer Platform on Aruba Cloud: GitOps, Multi-Tenancy & Service Abstraction | [link](https://github.com/Arubacloud/devops-italy-2026) |
 ---
 
 ## 📦 Archived or Not Actively Maintained

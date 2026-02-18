@@ -46,8 +46,8 @@ They may evolve over time but are primarily intended for educational and demonst
 
 | Project | Event Context | Description | Github |
 |------------|-------------|--------|--------|
-| **devsecops-demo-2025** | DevSecOps Day 2025 | Multi-tier cloud demo: static site, Kubernetes WordPress, and Go API—secured with Vault/ESO and CI/CD via GitHub Actions. | [link](https://github.com/Arubacloud/devsecops-demo-2025) |
-| **devops-italy-2026** | DevSecOps Italy 2026 | Building an Internal Developer Platform on Aruba Cloud: GitOps, Multi-Tenancy & Service Abstraction | [link](https://github.com/Arubacloud/devops-italy-2026) |
+| **[devsecops-demo-2025](https://github.com/Arubacloud/devsecops-demo-2025)** | DevSecOps Day 2025 | Multi-tier cloud demo: static site, Kubernetes WordPress, and Go API—secured with Vault/ESO and CI/CD via GitHub Actions. | ![Stars](https://img.shields.io/github/stars/Arubacloud/devsecops-demo-2025?style=social) |
+| **[devops-italy-2026](https://github.com/Arubacloud/devops-italy-2026)** | DevSecOps Italy 2026 | Building an Internal Developer Platform on Aruba Cloud: GitOps, Multi-Tenancy & Service Abstraction |![Stars](https://img.shields.io/github/stars/Arubacloud/devops-italy-2026?style=social) |
 ---
 
 ## 📦 Archived or Not Actively Maintained
